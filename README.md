@@ -10,6 +10,7 @@ Sources studied and used:
 
 Intro to GANs:
 https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
+
 https://www.youtube.com/watch?v=8L11aMN5KY8
 
 Conditional GANs:
@@ -20,6 +21,9 @@ https://arxiv.org/pdf/1611.07004.pdf
 
 First Order Motion Model – Video, paper, code (GitHub)
 https://www.youtube.com/watch?v=u-0cQ-grXBQ
+
 https://aliaksandrsiarohin.github.io/first-order-model-website/
+
 https://arxiv.org/pdf/2003.00196.pdf
+
 https://github.com/AliaksandrSiarohin/first-order-model
