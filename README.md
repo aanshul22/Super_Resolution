@@ -6,6 +6,20 @@ Worked on super resolution for a social media start-up called [WOMBO AI](https:/
 
 Used Enhanced Super-Resolution Generative Adversarial Networks (ESRGANS).
 
+Git repos referenced:
+
+https://github.com/AliaksandrSiarohin/first-order-model
+
+https://github.com/tensorlayer/srgan
+
+https://github.com/deepak112/Keras-SRGAN
+
+https://github.com/Lotayou/Face-Renovation
+
+https://github.com/peteryuX/esrgan-tf2
+
+https://www.kaggle.com/arnaud58/flickrfaceshq-dataset-ffhq/
+
 Sources studied and used:
 
 Intro to GANs:
