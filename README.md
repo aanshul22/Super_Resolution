@@ -1,6 +1,6 @@
 # Super_Resolution
 
-> Not permitted to provide code
+> Unable to provide code at the moment.
 
 Worked on super resolution for a social media start-up called [WOMBO AI](https://www.wombo.ai/).
 
